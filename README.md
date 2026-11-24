@@ -6,7 +6,7 @@ change anything that belongs to Tenant B.
 
 This is the companion repo for the blog post
 **"Building an MCP Server for a WMS: Letting AI Agents Query Stock and Create Tasks Without Leaking Tenant B's Data"**
-([read the post]([https://YOUR-SITE/blog/POST-SLUG](https://www.rorixtech.com/blogs/building-an-mcp-server-for-a-wms-letting-ai-agents-query-stock-and-create-tasks-without-leaking-tenants-data))).
+([read the post](https://www.rorixtech.com/blogs/building-an-mcp-server-for-a-wms-letting-ai-agents-query-stock-and-create-tasks-without-leaking-tenants-data)).
 
 > **Fake data only.** 2 made-up tenants, a few made-up SKUs and locations, an in-memory store.
 > This is a teaching example, not the code behind any production system.
